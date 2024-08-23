@@ -1,0 +1,12 @@
+.page-container{
+
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+}
+.page-child {
+
+  /* border: 1px solid blue; */
+  width: 70%;
+
+}
