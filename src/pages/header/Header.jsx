@@ -13,7 +13,7 @@ export default function Header() {
         <div className = "header-menu">
              <ul>
                  <li>
-                     <a href = "/">Search</a>
+                     <a href = "/"> Dog</a>
                  </li>
                  <li>
                      <a href = "/breed">Breed</a>
